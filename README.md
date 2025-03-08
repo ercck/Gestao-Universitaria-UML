@@ -30,30 +30,19 @@ Este documento apresenta a análise do diagrama de caso de uso e a descrição d
 - Exibe mensagem de confirmação.
 
 # Prototipação de Baixo Nível:
-# Exemplo 1:
-![image](https://github.com/user-attachments/assets/862372f2-c77a-46e0-a01a-a72aa145a254)
-.
-.
-.
-# Exemplo 2:
+
 ![image](https://github.com/user-attachments/assets/a39c7034-e0b1-400a-885d-41feddec3f3d)
 ![image](https://github.com/user-attachments/assets/42ad3eeb-0374-4757-be78-ee36eec74c4c)
-
-.
-.
-.
-# Exemplo 3:
-![image](https://github.com/user-attachments/assets/fede931d-9846-486d-8fdd-4c82cb53ba8a)
-![image](https://github.com/user-attachments/assets/cb20fd30-4e87-46e7-a36a-f7d8e5c02255)
-![image](https://github.com/user-attachments/assets/4f59075d-cbac-4c52-8051-f5ca389cdd44)
-![image](https://github.com/user-attachments/assets/7c6f53fd-c264-4e02-a403-71ee93439b6f)
-![image](https://github.com/user-attachments/assets/654f3273-40c5-48cd-8f66-ca78d4ccc0a0)
 
 # Prototipação de Alto Nível:
 ![image](https://github.com/user-attachments/assets/a7aa1e36-3e28-4bd0-a6a9-a41df3802e81)
 
-# Caso de Uso com UML
-![image](https://github.com/user-attachments/assets/ec810a7c-2f5d-4fdd-b6f2-396f9adb8a19)
+# Diagrama do caso de uso com UML:
+![image](https://github.com/user-attachments/assets/53964514-02ed-4024-bb07-610e2b098aff)
+
+# Diagrama de Classe:
+![image](https://github.com/user-attachments/assets/f502b609-e4b7-473d-92e0-bcfbd0d0dbd5)
+
 
 
 
