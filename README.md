@@ -43,7 +43,9 @@ Este documento apresenta a análise do diagrama de caso de uso e a descrição d
 # Diagrama de Classe:
 ![image](https://github.com/user-attachments/assets/f502b609-e4b7-473d-92e0-bcfbd0d0dbd5)
 
-
-
-
-
+### Equipe:
+- [Anna Clara Meirelles Ianzer](https://github.com/ianzerrr)
+- [Erick Ferreira de Melo](https://github.com/ercck)
+- [Júlia Marques de Oliveira Fonsêca](https://github.com/juliamarqss)
+- [Luiz H. Silva](https://github.com/henriqueluiz)
+- [Thalita Karine Lucas](https://github.com/DahulkTk)
