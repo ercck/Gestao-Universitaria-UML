@@ -12,7 +12,6 @@ Este documento apresenta a análise do diagrama de caso de uso e a descrição d
 - Exibe mensagem de sucesso.
 
 *2. Visualização de Dados*
-*Cenário Principal:*
 - Usuário acessa a tela de visualização.
 - Seleciona o tipo de dado (administrador, pessoa física, etc.).
 - O sistema exibe a lista de registros.
